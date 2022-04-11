@@ -17,7 +17,6 @@ btn_click(btn_state)
 ul_states=catch_element(0, "/html/body/app/shell/div/seletor-localidade/div/div[2]/ul", driver)
 as_state=catch_elements(1, "a", ul_states)
 
-as_state=as_state[:3]
 states=[]
 for a_state in as_state:
     state={}

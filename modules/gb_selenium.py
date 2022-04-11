@@ -43,30 +43,22 @@ def btn_click(element):#, force, driver):
 
 def catch_element(attribute, value, container):
     while True:
-        element=''
         try:
             if attribute==3:
                 return Alert(container)
             elif attribute==0:
                 return container.find_element(By.XPATH, value)
             elif attribute==1:
-                return container.find_element_by_tag_name(value)
-            elif attribute==2:
-                return container.find_element_by_css_selector(value)
+                return container.find_element(By.TAG_NAME, value)
         except:
             time.sleep(5)
 
 def catch_elements(attribute, value, container):
     while True:
-        elements=''
         try:            
             if attribute==0:
                 return container.find_elements(By.XPATH, value)
             elif attribute==1:
-                return container.find_elements_by_tag_name(value)
-            elif attribute==2:                
-                return container.find_element_by_class_name(value)
-            elif attribute==3:                
-                return container.find_element_by_css_selector(value)
+                return container.find_elements(By.TAG_NAME, value)
         except:
             time.sleep(5)
