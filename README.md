@@ -46,18 +46,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <details><summary>Arquivo - JSON</a></summary>
 <p>
-<div align="center"><img  width="100%" src="./Files/01_Create_Simple_Task.gif"></div>
+<div align="center"><img  width="100%" src="./files/txt.JPG"></div>
 </p>
 </details>
 
 <details><summary>Arquivo - DATA BASE</a></summary>
 <p>
-<div align="center"><img  width="100%" src="./Files/02_Create_Week_Task.gif"></div>
+<div align="center"><img  width="100%" src="./files/db.JPG"></div>
 </p>
 </details>
 
 <details><summary>Arquivo - EXCEL</a></summary>
 <p>
-<div align="center"><img  width="100%" src="./Files/03_Create_Month_Task.gif"></div>
+<div align="center"><img  width="100%" src="./files/xlsx.JPG"></div>
 </p>
 </details>
