@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img alt="STATUS" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=49AA26&labelColor=000000">
+  <img alt="STATUS" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=aa9826&labelColor=000000">
   <img alt="AUTOR" src="https://img.shields.io/static/v1?label=AUTOR&message=GBRIETZIG&color=49AA26&labelColor=000000">
 </p>
 
@@ -28,11 +28,12 @@ Quando completo o projeto, esse deverá:
 - [ ] Permitir capturar os dados a partir da biblioteca REQUESTS
 - [ ] Permitir o download das bandeiras a partir da biblioteca REQUESTS
 - [X] Permitir extrair os dados em um arquivo de banco de dados com a extensão ".db"
-- [X] Permitir extrair os dados em um json em um arquivo com a extensão ".db"
+- [X] Permitir extrair os dados em um json em um arquivo com a extensão ".txt"
 - [X] Permitir extrair os dados em um arquivo de excel com a extensão ".xlsx"
 - [ ] Interface para selecionar a forma de capturar e exportar os dados
 - [ ] Verificar e alertar o usuário em caso de presença de dados que serão sobrescritos
 - [X] Criar documentação para a solução (README)
+- [ ] Refatorar o código
 
 
 ## 🚀 Tecnologias
@@ -46,18 +47,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <details><summary>Arquivo - JSON</a></summary>
 <p>
-<div align="center"><img  width="100%" src="./Files/01_Create_Simple_Task.gif"></div>
+<div align="center"><img  width="100%" src="./files/txt.JPG"></div>
 </p>
 </details>
 
 <details><summary>Arquivo - DATA BASE</a></summary>
 <p>
-<div align="center"><img  width="100%" src="./Files/02_Create_Week_Task.gif"></div>
+<div align="center"><img  width="100%" src="./files/db.JPG"></div>
 </p>
 </details>
 
 <details><summary>Arquivo - EXCEL</a></summary>
 <p>
-<div align="center"><img  width="100%" src="./Files/03_Create_Month_Task.gif"></div>
+<div align="center"><img  width="100%" src="./files/xlsx.JPG"></div>
 </p>
 </details>
