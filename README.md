@@ -28,7 +28,7 @@ Quando completo o projeto, esse deverá:
 - [ ] Permitir capturar os dados a partir da biblioteca REQUESTS
 - [ ] Permitir o download das bandeiras a partir da biblioteca REQUESTS
 - [X] Permitir extrair os dados em um arquivo de banco de dados com a extensão ".db"
-- [X] Permitir extrair os dados em um json em um arquivo com a extensão ".db"
+- [X] Permitir extrair os dados em um json em um arquivo com a extensão ".txt"
 - [X] Permitir extrair os dados em um arquivo de excel com a extensão ".xlsx"
 - [ ] Interface para selecionar a forma de capturar e exportar os dados
 - [ ] Verificar e alertar o usuário em caso de presença de dados que serão sobrescritos
