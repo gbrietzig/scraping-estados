@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img alt="STATUS" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=49AA26&labelColor=000000">
+  <img alt="STATUS" src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=aa9826&labelColor=000000">
   <img alt="AUTOR" src="https://img.shields.io/static/v1?label=AUTOR&message=GBRIETZIG&color=49AA26&labelColor=000000">
 </p>
 
@@ -33,6 +33,7 @@ Quando completo o projeto, esse deverá:
 - [ ] Interface para selecionar a forma de capturar e exportar os dados
 - [ ] Verificar e alertar o usuário em caso de presença de dados que serão sobrescritos
 - [X] Criar documentação para a solução (README)
+- [ ] Refatorar o código
 
 
 ## 🚀 Tecnologias
